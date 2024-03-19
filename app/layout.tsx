@@ -38,6 +38,11 @@ export default function RootLayout({
         <meta name="config" content={JSON.stringify(getClientConfig())} />
         <link rel="manifest" href="/site.webmanifest"></link>
         <script src="/serviceWorkerRegister.js" defer></script>
+        <script
+          defer
+          data-domain="chat.derekr.xyz"
+          src="https://io.fun-club.xyz/js/script.js"
+        ></script>
       </head>
       <body>
         {children}

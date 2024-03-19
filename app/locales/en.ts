@@ -342,7 +342,7 @@ const en: LocaleType = {
     Model: "Model",
     Temperature: {
       Title: "Temperature",
-      SubTitle: "A larger value makes the more random output",
+      SubTitle: "A larger value creates more random output",
     },
     TopP: {
       Title: "Top P",

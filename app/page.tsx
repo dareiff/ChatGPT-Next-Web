@@ -10,7 +10,7 @@ export default async function App() {
   return (
     <>
       <PlausibleProvider
-        domain="myfrienddereks.com"
+        domain="chat.derekr.xyz"
         selfHosted={true}
         customDomain="https://io.fun-club.xyz"
       >
